@@ -22,6 +22,7 @@
 		017183D61D2206B4004D9573 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		017183D91D2206B4004D9573 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		017183DB1D2206B4004D9573 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		017183E11D22080A004D9573 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				017183D61D2206B4004D9573 /* Assets.xcassets */,
 				017183D81D2206B4004D9573 /* LaunchScreen.storyboard */,
 				017183DB1D2206B4004D9573 /* Info.plist */,
+				017183E11D22080A004D9573 /* MyPlayground.playground */,
 			);
 			path = home3onplayground;
 			sourceTree = "<group>";
